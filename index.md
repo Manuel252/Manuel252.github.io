@@ -1,1 +1,1 @@
-# Mein tolles Paper
+# Ein tolles Hobby!
