@@ -50,4 +50,14 @@ Horváth konzentriert sich bei seinem Konzept auf die Koordination. Er sieht die
 
 Es sollte also möglich sein, aus diesen Konzepten einen allgemeingültigen Ansatz zu entwickeln, da sie Verknüpfungspunkte besitzen.
 
-Hier finden Sie [Ulrich Anders Website](https://ulrich-anders.eu)
+
+# Literatur
+
+[Scheld, G. A. (2008). Controlling im Mittelstand - Band 1: Grundlagen und Informationsmanagement (4. Aufl., Bd. 1). Büren: Gertrud Scheld Fachbibliothek Verlag.](https://biblio.cbs.de/detail.aspx?data=Y21kPTEmYW1wO3NDPWNfMD0wJSVtXzA9MSUlZl8wPTIlJW9fMD04JSV2XzA9c2NoZWxkJmFtcDtDYXRhbG9ndWVJZD0xNDI2NCZhbXA7cGFnZUlkPTImYW1wO1NyYz0yJmFtcDtwUz0xMCZhbXA7U29ydD1FcnNjaGVpbnVuZ3NqYWhy-BKKzaywaiXs=) [ISBN: 978-3503174652](https://www.amazon.de/Controlling-Mittelstand-Band-Grundlagen-Informationsmanagement/dp/3503174656/ref=sr_1_4?__mk_de_DE=ÅMÅŽÕÑ&keywords=controlling+im+mittelstand+scheld&qid=1572723735&sr=8-4)
+
+[Horváth, P., Gleich, R., & Seiter, M. (2015). Controlling (13. Aufl.). München: Franz Vahlen Verlag.](https://biblio.cbs.de/detail.aspx?data=U29ydD1FcnNjaGVpbnVuZ3NqYWhyJmFtcDtzQz1jXzA9MSUlbV8wPTElJWZfMD0yJSVvXzA9OCUldl8wPWNvbnRyb2xsaW5nIGhvcnZhdGgmYW1wO2NtZD0xJmFtcDtDYXRhbG9ndWVJZD0yODg4MCZhbXA7cGFnZUlkPTImYW1wO1NyYz0yJmFtcDtwUz0xMA==-PfywiG/wpwQ=) [ISBN: 978-3800649549](https://www.amazon.de/Controlling-Péter-Horváth/dp/3800649543/ref=sr_1_4?__mk_de_DE=ÅMÅŽÕÑ&crid=1YMKX6BO456BR&keywords=controlling+horvath&qid=1572723878&sprefix=controlling+h%2Caps%2C164&sr=8-4)
+
+[Weber, J., & Schäffer, U. (2016). Einführung in das Controlling (15. Aufl.). Stuttgart: Schäffer-Poeschel Verlag.](https://biblio.cbs.de/detail.aspx?data=U29ydD1FcnNjaGVpbnVuZ3NqYWhyJmFtcDtzQz1jXzA9MSUlbV8wPTElJWZfMD0yJSVvXzA9OCUldl8wPUNvbnRyb2xsaW5nIHdFYmVyJmFtcDtjbWQ9MSZhbXA7Q2F0YWxvZ3VlSWQ9MjcyOTMmYW1wO3BhZ2VJZD0yJmFtcDtTcmM9MiZhbXA7cFM9MTA=-CxTN8L4bM7g=) [ISBN:  978-3791035741](https://www.amazon.de/Einführung-das-Controlling-Jürgen-Weber/dp/3791035746/ref=sr_1_3?__mk_de_DE=ÅMÅŽÕÑ&keywords=controlling+weber&qid=1572723987&sr=8-3)
+
+[Smolenski, F. (2008). Controlling in internationalen Unternehmen (1. Aufl.). Bremen: Salzwasser Verlag.](https://biblio.cbs.de/detail.aspx?data=U29ydD1FcnNjaGVpbnVuZ3NqYWhyJmFtcDtzQz1jXzA9MSUlbV8wPTElJWZfMD0yJSVvXzA9OCUldl8wPWNvbnRyb2xsaW5nIGluIGludGVybmF0aW9uYWxlbiB1bnRlcm5laG1lbiZhbXA7Y21kPTEmYW1wO0NhdGFsb2d1ZUlkPTIwMTk3JmFtcDtwYWdlSWQ9MiZhbXA7U3JjPTImYW1wO3BTPTEw-3GvjmaHEG8M=) [ISBN: 978-3867410885](https://www.econbiz.de/Record/controlling-in-internationalen-unternehmen-smolenski-franziska/10003712344)
+
